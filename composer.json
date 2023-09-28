@@ -1,0 +1,16 @@
+{
+    "name": "php/newroutes",
+    "authors": [
+        {
+            "name": "Tony Guerra"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
